@@ -2,4 +2,4 @@
 
 ## Poster
 See poster for details on methods and results.
-\\Link: https://github.com/alliixx/Human_Learning_Mathametical_Modeling/blob/initialcheckin/Modeling_Human_Learning.png
+a <br />Link: https://github.com/alliixx/Human_Learning_Mathametical_Modeling/blob/initialcheckin/Modeling_Human_Learning.png
